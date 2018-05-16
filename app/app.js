@@ -4,3 +4,8 @@ function sumNumbers(array) {
   return array.reduce((total, number) => total += number)
 }
 
+const newArray = [
+  {'Alyssa': 26},
+  {'Keith': 30}
+]
+
