@@ -1,0 +1,14 @@
+body {
+  background: blueviolet;
+  font-size: 15em;
+  font-family: fantasy;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+p {
+  text-transform: uppercase;
+  font-size: 0.2em;
+}
